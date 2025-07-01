@@ -1,0 +1,11 @@
+Dashboards
+
+Lifestyle Overview Dashboard : https://public.tableau.com/app/profile/yaswanth.kumar.marella/viz/finalTableau_17512852283230/Dashboard1?publish=yes
+Dietary Habits and Preferences Dashboard: https://public.tableau.com/app/profile/yaswanth.kumar.marella/viz/finalTableau_17512852283230/Dashboard2?publish=yes
+Health and Nutrition Dashboard: https://public.tableau.com/app/profile/yaswanth.kumar.marella/viz/finalTableau_17512852283230/Dashboard3?publish=yes
+
+
+Stories
+
+Story-1 : https://public.tableau.com/app/profile/yaswanth.kumar.marella/viz/finalTableau_17512852283230/Story1?publish=yes
+story-2 : https://public.tableau.com/app/profile/yaswanth.kumar.marella/viz/finalTableau_17512852283230/Story2?publish=yes
